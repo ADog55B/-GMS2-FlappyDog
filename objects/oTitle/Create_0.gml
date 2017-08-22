@@ -1,0 +1,1 @@
+audio_play_sound(sBGM,1,0);
